@@ -46,6 +46,7 @@
     <Compile Include="Arguments.cs" />
     <Compile Include="Aritmatika.cs" />
     <Compile Include="Array.cs" />
+    <Compile Include="ArrayMultidimensi.cs" />
     <Compile Include="Conditional.cs" />
     <Compile Include="IncrementAndDecrement.cs" />
     <Compile Include="Method.cs" />
