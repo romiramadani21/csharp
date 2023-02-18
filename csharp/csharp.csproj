@@ -45,8 +45,10 @@
   <ItemGroup>
     <Compile Include="Aritmatika.cs" />
     <Compile Include="Conditional.cs" />
+    <Compile Include="IncrementAndDecrement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SwitchCase.cs" />
     <Compile Include="UserInput.cs" />
     <Compile Include="Variable.cs" />
   </ItemGroup>
