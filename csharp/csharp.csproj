@@ -51,6 +51,7 @@
     <Compile Include="SwitchCase.cs" />
     <Compile Include="UserInput.cs" />
     <Compile Include="Variable.cs" />
+    <Compile Include="Loop.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
